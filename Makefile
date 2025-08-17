@@ -33,7 +33,7 @@ SRCDIR       = src
 EXPORTDIR    = export
 CHECK_PREFIX = check
 
-VER          = 1.0.0
+VER          = 1.1.2
 NAME         = Menomonia
 VARIANTS     = \
     Sans-Regular       Sans-Italic
