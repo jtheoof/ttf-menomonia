@@ -8,6 +8,13 @@ Font family for Menomonia, a font used in Guild Wars 2. Requires a valid license
 make build
 ```
 
+## Release
+
+```
+npx standard-version
+git push --follow-tags
+```
+
 ## License
 
 Copyright (c) Chank Co, 2012. All rights reserved. Do not redistribute or alter this font without permission.
