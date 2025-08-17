@@ -1,4 +1,4 @@
-name: Build ttf-menomonia
+name: Release ttf-menomonia
 
 on:
   push:
